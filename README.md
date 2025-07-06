@@ -4,7 +4,7 @@ This repository contains the tasks and reports completed during my Week 7 intern
 
 ## Tasks Overview
 
-### 1. **Task 3: Report Creation Using DAX Techniques**
+### 1. **Task 1: Report Creation Using DAX Techniques**
    - Implemented **15 DAX techniques** as part of the report-building process.
    - Applied **5 Date/Time functions** for data analysis.
 
@@ -14,13 +14,13 @@ This repository contains the tasks and reports completed during my Week 7 intern
      - VALUES
      - ALLSELECTED
 
-### 3. **Task 4: Power BI Licensing Overview**
+### 3. **Task 3: Power BI Licensing Overview**
    - Created a detailed document covering:
      - Types of Power BI Licensing
      - Differences between the types of licensing
      - Benefits of Power BI Premium over Power BI Pro
     
-### 4. **Task 1: SQL Server Data Upload & Paginated Report**
+### 4. **Task 4: SQL Server Data Upload & Paginated Report**
    - Uploaded data to SQL Server (Note: Due to the large size of the data, it could not be uploaded to GitHub. Please contact me directly for access to the dataset).
    - Created a paginated report by using SQL Server as the data source.
    - Added a **Pie Visual** to the report.
@@ -52,6 +52,19 @@ This repository contains the tasks and reports completed during my Week 7 intern
 
 - **Power BI Report** - The `.pbix` file with all the visualizations and calculations.
 - **Power BI Licensing Overview** - A document explaining the licensing types and benefits.
+- - **Power Bi Report Builder** Containing the Paginated Report for the Dataset
+
+## ScreenShot 
+- Diffence Between the Licensing Mentioned on the Official Website of Power BI 
+![screencapture-microsoft-en-us-power-platform-products-power-bi-pricing-2025-07-03-21_01_50-edit](https://github.com/user-attachments/assets/606cb7b4-4b69-472c-9d14-224105b18552)
+
+- Parameters Made in Power BI Report Builder For the Paginagted Report 
+![Screenshot (416)](https://github.com/user-attachments/assets/5cbcf3f6-ed39-4660-a50c-abc3c366495e)
+
+- Paginated Report in Power BI Report Builder 
+![image](https://github.com/user-attachments/assets/b89bfb89-0d67-4e43-b30d-43d933e1ef1b)
+
+
 
 ## License
 
